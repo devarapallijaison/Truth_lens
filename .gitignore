@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+client/dist/
+client/.vite/
+
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
+
+# Logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
